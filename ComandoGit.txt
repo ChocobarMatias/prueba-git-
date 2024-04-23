@@ -1,0 +1,17 @@
+Comandos GIT
+
+Inicializacion y creacion de un repositorio remoto y local
+
+- creamos la carpeta del repositorio local
+- Abrimos la consola Git bash
+- cd /c/la direccion de la carpeta para crear respositorio
+- git init (esto es para inicializar repositorio)
+- git confing user.name "nombre de usuario de github" (con esto voy creando la conexion remota con github)
+- git confing user.email "correo electronico que use para crear github"
+- git remote add origin "URL del repositorio remoto de github que usare" (la palabra origin se usa me modo estandar pero se puede usar otro el que quieramos).
+
+PUSH (comando para pasar un archivo de repositorio local a uno remoto)
+
+- Verificamos si el archivo nuevo que queremos subir esta en la carpeta del repositorio local
+-Abrimos la consola Git bash
+
